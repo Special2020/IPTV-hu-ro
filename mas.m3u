@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,■kokoshIPTV FREE■
-http://stream1.protv.ro/news/stream:1.stream/playlist.m3u8
-#EXTINF:-1 ,KOKOSH
-http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:-1 ,REALITATEA PLUS
 http://78.109.108.62:6012/realitatea
 #EXTINF:-1 ,TVR 1
